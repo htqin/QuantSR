@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=4 python basicsr/test_slimmable_4bit_x4.py -opt options/test/EDSR/test_QuantSR_C_4bit_x4.yml
