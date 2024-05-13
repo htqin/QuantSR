@@ -1,5 +1,5 @@
 # QuantSR: Accurate Low-bit Quantization for Efficient Image Super-Resolution
-This project is the official implementation of our accepted NeurIPS 2023 (spotlight) paper *QuantSR: Accurate Low-bit Quantization for Efficient Image Super-Resolution* [[PDF]( )]. Created by researchers from Beihang University and ETH Zürich.
+This project is the official implementation of our accepted NeurIPS 2023 (spotlight) paper *QuantSR: Accurate Low-bit Quantization for Efficient Image Super-Resolution* [[PDF](https://openreview.net/forum?id=3gamyee9Yh)]. Created by researchers from Beihang University and ETH Zürich.
 
 ![loading-ag-172](./imgs/overview.png)
 
